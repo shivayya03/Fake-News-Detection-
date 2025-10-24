@@ -1,5 +1,3 @@
-Got it, Shivayya — let’s lock in a powerful README for your Fake News Detection project. Here's a refined version tailored to your strengths and goals:
-
 📰 Fake News Detection with Machine Learning
 Combatting misinformation using NLP and supervised learning — a real-world ML project built for impact and clarity.
 📌 Overview
