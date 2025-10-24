@@ -1,14 +1,14 @@
-📰 Fake News Detection with Machine Learning
+# 📰 Fake News Detection with Machine Learning
 Combatting misinformation using NLP and supervised learning — a real-world ML project built for impact and clarity.
-📌 Overview
+## 📌 Overview
 This project classifies news articles as real or fake using machine learning. It demonstrates how data science can be applied to social challenges, with a focus on interpretability, performance, and educational value.
-📊 Dataset
+## 📊 Dataset
 - Source: Kaggle Fake News Dataset
 - Size: 20,000+ articles
 - Features: Title, text, subject, date
 - Target: Binary label — REAL or FAKE
 
-🧠 Model Pipeline
+## 🧠 Model Pipeline
 - Preprocessing:
 - Tokenization
 - Stopword removal
@@ -21,15 +21,15 @@ This project classifies news articles as real or fake using machine learning. It
 - Precision: 91%
 - Recall: 93%
 - F1 Score: 92%
-📁 Project Structure
-├── data/                  # Raw and cleaned datasets
-├── notebooks/             # EDA and model development
-├── models/                # Saved model files
-├── utils/                 # Preprocessing functions
-├── app.py                 # Streamlit app for demo
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
-🧪 How to Run
+## 📁 Project Structure
+├── data/                 
+├── notebooks/            
+├── models/               
+├── utils/                
+├── app.py                
+├── requirements.txt      
+└── README.md             
+## 🧪 How to Run
 # Clone the repository
 git clone https://github.com/shivayya03/Fake-News-Detection.git
 
@@ -38,19 +38,19 @@ pip install -r requirements.txt
 
 # Launch the app
 streamlit run app.py
-📈 Visuals
+## 📈 Visuals
 - Confusion matrix
 - Classification report
 - Word clouds for fake vs real news
 - Feature importance plots
-🎯 Key Learnings
+## 🎯 Key Learnings
 - Applied NLP to real-world classification
 - Compared models using multiple metrics
 - Built an interactive dashboard for public engagement
-🔮 Future Scope
+## 🔮 Future Scope
 - Integrate deep learning models (e.g., LSTM, BERT)
 - Expand dataset with multilingual sources
 - Deploy as a browser extension for real-time detection
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 I’m Shivayya, a B.Tech student passionate about machine learning, data visualization, and educational outreach. This project reflects my drive to build impactful tools and share technical knowledge in engaging ways.
 
